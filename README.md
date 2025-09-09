@@ -232,11 +232,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📢 Roadmap
 
-[ ] Add testing and proper coverage
-[ ] Additional Go lessons eventually
-[ ] Update Gemini to pull docs link for fully accurate data
-[ ] Make problems solvable in the cli
-[ ] 🤷 Who knows what else, may not even make it to these items this was a random idea that turned out pretty fun
+- [ ] Add testing and proper coverage
+- [ ] Additional Go lessons eventually
+- [ ] Update Gemini to pull docs link for fully accurate data
+- [ ] Make problems solvable in the cli
+- [ ] 🤷 Who knows what else, may not even make it to these items this was a random idea that turned out pretty fun
 
 ---
 
